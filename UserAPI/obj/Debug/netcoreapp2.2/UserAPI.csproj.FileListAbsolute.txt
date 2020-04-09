@@ -1,0 +1,17 @@
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.deps.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.runtimeconfig.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.runtimeconfig.dev.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.dll
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.pdb
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorAssemblyInfo.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorAssemblyInfo.cs
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.AssemblyInfoInputs.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.AssemblyInfo.cs
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorTargetAssemblyInfo.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.dll
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.pdb
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\bin\Debug\netcoreapp2.2\web.config
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\AggregatorApi.deps.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\AggregatorApi.runtimeconfig.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\AggregatorApi.runtimeconfig.dev.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\AggregatorApi.dll
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\bin\Debug\netcoreapp2.2\AggregatorApi.pdb
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.RazorAssemblyInfo.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.RazorAssemblyInfo.cs
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.AssemblyInfoInputs.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.AssemblyInfo.cs
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.RazorTargetAssemblyInfo.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.dll
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.pdb
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\AggregatorApi\obj\Debug\netcoreapp2.2\AggregatorApi.csprojAssemblyReference.cache

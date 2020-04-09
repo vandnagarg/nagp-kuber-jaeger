@@ -1,0 +1,15 @@
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.deps.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.runtimeconfig.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.runtimeconfig.dev.json
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.dll
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\bin\Debug\netcoreapp2.2\OrdersAPI.pdb
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.RazorAssemblyInfo.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.RazorAssemblyInfo.cs
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.AssemblyInfoInputs.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.AssemblyInfo.cs
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.RazorTargetAssemblyInfo.cache
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.dll
+D:\nagp\2 msa k8s\kubernetesSol2\KubernetesSol-master\OrdersAPI\obj\Debug\netcoreapp2.2\OrdersAPI.pdb
